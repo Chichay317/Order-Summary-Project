@@ -110,6 +110,7 @@ html {
   .plan__link a:hover,
   .plan__link a:active {
     color: hsl(224, 23%, 55%);
+    text-decoration: none;
   }
 
   .payment {
